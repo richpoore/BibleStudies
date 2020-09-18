@@ -9,11 +9,13 @@
 | Children who __believe__  | 1:6       | 4103 - Pistos     |   |
 | Overseer              | 1:7           | 1985 - Episkopos  |   |
 | Steward               | 1:7           | 3623 - Steward    | manager  | 
-| Hospitable
-| Loving what is good
-| Sensible
-| Self-Controlled
-| Upright
+| Hospitable            | 1:8           | 5382 - Philoxenos |   |
+| Loving what is good   | 1:8           | 5358 -  Philagathos |     |
+| Sensible              | 1:8           | 4998 - Sophron | Sober minded |
+| Just                  | 1:8           | 1342 - Dikaios    |   |
+| Devout                | 1:8           | 3741 - Hosios     | holy |
+| Self-Controlled       | 1:8           | 1468 - Egkrates   |   |
+| __holding fast__ the Word | 1:9       | 472 - Antechomai  | cleave to |
 
 
 
