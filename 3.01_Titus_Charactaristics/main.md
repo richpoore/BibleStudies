@@ -16,6 +16,11 @@
 | Devout                | 1:8           | 3741 - Hosios     | holy |
 | Self-Controlled       | 1:8           | 1468 - Egkrates   |   |
 | __holding fast__ the Word | 1:9       | 472 - Antechomai  | cleave to |
+| temperate             | 2:1           | 3524 - Nephaleos  | abstaining from excessive wine and gossip |
+| dignified             | 2:1           | 4586 - Semnos     | deserving of respect |
+| sensible              | 2:1           | 4998 - Sophron    | sane and self-controlled |
+| __sound__ in __faith__| 2:1           | 5198 - Hugiaino <br> 4102 - Pistis | healthy, pure <br> faith and convictions |
+
 
 
 
