@@ -11,17 +11,24 @@
 | Steward               | 1:7           | 3623 - Steward    | manager  | 
 | Hospitable            | 1:8           | 5382 - Philoxenos |   |
 | Loving what is good   | 1:8           | 5358 -  Philagathos |     |
-| Sensible              | 1:8           | 4998 - Sophron | Sober minded |
+| Sensible              | 1:8           | 4998 - Sophron    | Sober minded |
 | Just                  | 1:8           | 1342 - Dikaios    |   |
 | Devout                | 1:8           | 3741 - Hosios     | holy |
 | Self-Controlled       | 1:8           | 1468 - Egkrates   |   |
 | __holding fast__ the Word | 1:9       | 472 - Antechomai  | cleave to |
-| temperate             | 2:1           | 3524 - Nephaleos  | abstaining from excessive wine and gossip |
-| dignified             | 2:1           | 4586 - Semnos     | deserving of respect |
-| sensible              | 2:1           | 4998 - Sophron    | sane and self-controlled |
-| __sound__ in __faith__| 2:1           | 5198 - Hugiaino <br> 4102 - Pistis | healthy, pure <br> faith and convictions |
+| temperate             | 2:2           | 3524 - Nephaleos  | abstaining from excessive wine and gossip |
+| dignified             | 2:2           | 4586 - Semnos     | deserving of respect |
+| sensible              | 2:2           | 4998 - Sophron    | sane and self-controlled |
+| __sound__             | 2:2           | 5198 - Hugiaino   | healthy, pure     |
+| in __faith__          | 2:2           | 4102 - Pistis     | faith and convictions |
+| in __love__           | 2:2           | 26 - Agape        | one way unselfish love |
+| in __perseverance__   | 2:2           | 5281 - Hupomone   |   |
+| __reverent__ in __behavior__ (women) | 2:3 | 2412 - Hieroprepes <br> 2688 - Katastema| <br> demeanor |
+| not __malicious gossips__ | 2:3       | 1228 - diabolos   | devils - prone to accusing falsely |
+| not __enslaved__ to __much__ __wine__ | 2:3 | 1402 - Douloo <br> 4183 - polus <br> 3631 - Oinos | 
+| teaching what is good | 2:3           | 2567 - Kalodidaskalos |   |
 
-
+ 
 
 
 ## Negative Desctriptor Word List
