@@ -72,4 +72,8 @@
 
 * 3:1
     * We are to be subject to rulers and authorities.
-        * subject 
+        * There are times when the Bible makes it clear that we are to serve God rather than man when God's laws contradict man's laws, but how far does this go?
+            * Speeding
+            * Sneaking snacks into a movie theater
+            * Firearms
+            * Pirating - Morale Drives
