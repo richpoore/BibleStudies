@@ -24,9 +24,8 @@
 | in __love__           | 2:2           | 26 - Agape        | one way unselfish love |
 | in __perseverance__   | 2:2           | 5281 - Hupomone   |   |
 | __reverent__ in __behavior__ (women) | 2:3 | 2412 - Hieroprepes <br> 2688 - Katastema| <br> demeanor |
-| not __malicious gossips__ | 2:3       | 1228 - diabolos   | devils - prone to accusing falsely |
-| not __enslaved__ to __much__ __wine__ | 2:3 | 1402 - Douloo <br> 4183 - polus <br> 3631 - Oinos | 
 | teaching what is good | 2:3           | 2567 - Kalodidaskalos |   |
+| loving you children/husband | 2:4     
 
  
 
@@ -54,6 +53,8 @@
 | detestable
 | dissobedient
 | __worthles__ for __any good deed__     | 1:16        |    | competent for good | 
+| not __malicious gossips__ | 2:3       | 1228 - diabolos   | devils - prone to accusing falsely |
+| not __enslaved__ to __much__ __wine__ | 2:3 | 1402 - Douloo <br> 4183 - polus <br> 3631 - Oinos | 
 
 
 ## Word Details
