@@ -55,8 +55,21 @@
 | __worthles__ for __any good deed__     | 1:16        |    | competent for good | 
 | not __malicious gossips__ | 2:3       | 1228 - diabolos   | devils - prone to accusing falsely |
 | not __enslaved__ to __much__ __wine__ | 2:3 | 1402 - Douloo <br> 4183 - polus <br> 3631 - Oinos | 
+| __subject__ <br>to __rulers__ <br>and __authorities__ | 3:1 | 5293 - Hupotasso <br> 
 
 
 ## Word Details
 
 * 1401 - Servant
+* 5293 - Subject
+    - verb
+    - to place in order under another
+    - This is used when Jesus was in subjection under Joseph and Mary on the way home from the temple showing this is not necessarily indicitave of ability or worth, but of position at the time. Jesus voluntarily had given up some of His rights as God and became subject to earthly parents/step-parents
+
+
+
+## Commentary by verse
+
+* 3:1
+    * We are to be subject to rulers and authorities.
+        * subject 
